@@ -21,6 +21,6 @@ Render Link :
 LinkedIn: https://www.linkedin.com/in/shubham-manekar-b14458105/ 
 Email: shubhammanekar123@gmail.com
 
-
+## Technical Info
 Portfolio: https://shubham-manekar-portfolio.onrender.com
 GitHub: https://github.com/shubham-manekar-dev
