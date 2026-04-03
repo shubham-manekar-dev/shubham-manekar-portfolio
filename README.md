@@ -18,9 +18,9 @@ gRPC
 Render Link : 
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/shubham-manekar-b14458105/ 
-Email: shubhammanekar123@gmail.com
+1. LinkedIn: https://www.linkedin.com/in/shubham-manekar-b14458105/ 
+2. Email: shubhammanekar123@gmail.com
 
 ## Technical Info
-Portfolio: https://shubham-manekar-portfolio.onrender.com
-GitHub: https://github.com/shubham-manekar-dev
+1. Portfolio: https://shubham-manekar-portfolio.onrender.com
+2. GitHub: https://github.com/shubham-manekar-dev
